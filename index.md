@@ -7,7 +7,7 @@
   I feel that as this program comes to an end, I have been setup for success in my future career in Computer Science. I know that this field is a challenging one that requires constant learning and constant growth but I know that with my current skillset I will be able build on my skills to become a successful software engineer. I am very thankful for all of the challenges along the way as they can be used as learning experiences to promote more growth.
 
 
-- [Refinement Plan and Code Review](/Professional Self-Assessment.md)
+- [Refinement Plan and Code Review](Professional Self-Assessment.md)
 - [Refinement Plan and Code Review](/Professional Self-Assessment.md)
 - [Refinement Plan and Code Review](/Professional Self-Assessment.md)
 - [Refinement Plan and Code Review](/Professional Self-Assessment.md)
