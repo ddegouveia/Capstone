@@ -9,7 +9,7 @@ At this time, I am still having some issues getting everything connected properl
 
 
 
-You can view the project files for enhancement two [here](https://github.com/ddegouveia/Capstone/tree/gh-pages/Enhancement%20Three)
+You can view the project files for enhancement three [here](https://github.com/ddegouveia/Capstone/tree/gh-pages/Enhancement%20Three)
 
 ### Project Links
 - [Home](/index.md)
