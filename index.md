@@ -1,1 +1,1 @@
-<a class="btn zoombtn" href="https://github.com/ddegouveia/Capstone/blob/gh-pages/Professional%20Self-Assessment"> Professional Self-Assessment </a>
+<a class="btn zoombtn" href="Professional Self-Assessment.md"> Professional Self-Assessment </a>
