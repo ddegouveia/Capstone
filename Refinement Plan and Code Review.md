@@ -12,6 +12,7 @@ For the database section of this portfolio I would like to use skills that I hav
 ### Code Review
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X70Vwr64-tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
+<br><br>
 
 In this code review I detail my planned enhancements in the three areas of this project.
