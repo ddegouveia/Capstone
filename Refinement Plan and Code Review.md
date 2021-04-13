@@ -19,6 +19,6 @@ In this code review I detail my planned enhancements in the three areas of this 
 
 ### Project Links
 - [Home](/index.md)
-- [Enhancement One](Enhancement One.md)
+- [Enhancement One](/Enhancement One.md)
 - [Enhancement Two](/Professional Self-Assessment.md)
 - [Enhancement Three](/Professional Self-Assessment.md)
