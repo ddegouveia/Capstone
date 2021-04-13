@@ -9,5 +9,5 @@
 ### Project Links
 - [Refinement Plan and Code Review](/Refinement Plan and Code Review.md)
 - [Enhancement One](/Enhancement One.md)
-- [Enhancement Two](/Professional Self-Assessment.md)
-- [Enhancement Three](/Professional Self-Assessment.md)
+- [Enhancement Two](/Enhancement Two.md)
+- [Enhancement Three](/Enhancement Three.md)
