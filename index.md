@@ -1,1 +1,1 @@
-- [Project 1 Title](https://github.com/ddegouveia/Capstone/blob/9cae671f148f093d09dc970508ca22bc8cb6130b/Professional%20Self-Assessment.md)
+- [Project 1 Title](Professional Self-Assessment.md)
