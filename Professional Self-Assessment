@@ -1,8 +1,31 @@
-## Professional Self-Assesment
+## This can be your internal website page / project page
 
-  When looking back on my time spent in the Computer Science program and this capstone course I can honestly say that it was one of the hardest things I have ever done, however important thing is, that I was able to do it. When I first started my CS educational journey, I knew almost nothing about coding but I always was pretty computer savvy. During this capstone I was able to take a look at projects that I had completed towards the beginning of my time at SNHU and was given the opportunity to enhance these projects to help showcase my knowledge on these subject. During this time, I was able to take courses that prepared me by teaching me the foundations of topics from algorithms, data structures, secure coding, databases, and so much more.
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-	I have been able to successfully build upon the fundamentals of Computer Science and software engineering, which has allowed me to begin to learn more advanced coding techniques and foster a deep understanding of best practices when it comes to coding. In the capstone course I was able to take a project that was created when I first entered this program and advance it to showcase my new skills. The original project was an app for a zookeeper to monitor animals and habitats at a zoo, but was very basic. In order to showcase my skills in software design and engineering I added a new authentication aspect that required users to login to the application before accessing data. I further enhanced this to include encryption on the stored usernames and passwords to display a proficient understanding of algorithms and data structures. The final skill that I wanted to showcase was my understanding of databases, and this was done by creating a SQL database in order to store the data that is being accessed by the user.
+### 1. Suggest hypotheses about the causes of observed phenomena
 
-	I feel that as this program comes to an end, I have been setup for success in my future career in Computer Science. I know that this field is a challenging one that requires constant learning and constant growth but I know that with my current skillset I will be able build on my skills to become a successful software engineer. I am very thankful for all of the challenges along the way as they can be used as learning experiences to promote more growth.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 2. Assess assumptions on which statistical inference will be based
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 3. Support the selection of appropriate statistical tools and techniques
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Provide a basis for further data collection through surveys or experiments
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
