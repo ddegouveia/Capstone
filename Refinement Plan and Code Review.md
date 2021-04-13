@@ -8,3 +8,7 @@ For this portion of the portfolio I would like to continue with my improvements 
 
 ### Databases
 For the database section of this portfolio I would like to use skills that I have learned from DAD220, introduction to SQL which I took back in April 2019. This course was useful in giving me the skills to understand the basics of SQL. The way I would like to showcase these skills would be by creating a database that I can add to the Zoo project. Currently the project uses files that are parsed and read, however I would like to add a SQL database that can be used when adding and removing entries about the animals that are being monitored at the zoo. I feel that adding a database to this existing project will demonstrate my understanding of databases and CRUD functions that can be performed to help manage the data that will be accessed by the application. This would require me to adjust the code to read data from the database instead of the files it currently reads from. I would also like to include a user interface in the program that will allow the user to interact and manipulate the data in the database. <br><br><br><br>
+
+### Code Review
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/X70Vwr64-tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
