@@ -1,6 +1,6 @@
-##Enhancement One<br><br>
+## Enhancement One<br><br>
 
-###Software design and Engineering<br><br>
+### Software design and Engineering<br><br>
 The artifact was chosen for me to enhance for the software design and engineering portion of this project is the zoo monitoring program that was developed for IT-145. This course was something that I took very early in my program, in 2019, so I thought it would be exciting to look back at this artifact and work to enhance it. In this course we were given the option to include an authentication system or a monitoring system, and I had chosen the monitoring system. <br><br>
 The improvement that I would like to add to this project would be to go back in and add the authentication system that will allow the user to input a username and password and checks to make sure this is valid prior to allowing the user to access the monitoring features. When I first took this course I had never used Java before and remember this being quite difficult for me to complete, however now that I am at the end of my program I would like to compare my previous skills to where I am currently at. I feel that this project enhancement will showcase not only my understanding of foundations in application development but will also be able to showcase my understanding of coding best practices, by providing clear and concise code.<br><br>
 I feel that the enhancement for this portion of the project does meet the course objectives that I had planned to meet. The new components that I have added to this project is an authentication system. The program will now display a dialog box prompting the user to login with a username and password prior to accessing the main function of the program. If the user is not an active user, they have the option of signing up for an account. Once they have an account they are asked to login and this information is verified to make sure the account is valid by checking to see if the username and password match those that are stored in the login file prior to granting access. <br><br>
@@ -11,5 +11,5 @@ You can view the project files for enhancement one [here](https://github.com/dde
 ### Project Links
 - [Home](/index.md)
 - [Refinement Plan and Code Review](/Refinement Plan and Code Review.md)
-- [Enhancement Two](/Professional Self-Assessment.md)
-- [Enhancement Three](/Professional Self-Assessment.md)
+- [Enhancement Two](/Enhancement Two.md)
+- [Enhancement Three](/Enhancement Three.md)
