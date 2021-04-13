@@ -4,6 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a Bachelor’s of Science candidate in the field of Computer Science with a concentration in Software Engineering.
   <br><br>
 
-  <a href="https://www.linkedin.com/in/danieldegouveia/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/danieldegouveia">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
