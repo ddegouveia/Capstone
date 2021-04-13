@@ -8,7 +8,7 @@ I found this enhancement to be very challenging because I do not have much exper
 
 
 
-You can view the project files for enhancement two [here](https://github.com/ddegouveia/Capstone/tree/gh-pages/Enhancement%20One/ZooKeeper)
+You can view the project files for enhancement two [here](https://github.com/ddegouveia/Capstone/tree/gh-pages/Enhancement%20Two/ZooKeeper)
 
 ### Project Links
 - [Home](/index.md)
