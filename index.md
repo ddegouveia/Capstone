@@ -1,4 +1,4 @@
-### Professional Self-Assessment
+## Professional Self-Assessment
 
   When looking back on my time spent in the Computer Science program and this capstone course I can honestly say that it was one of the hardest things I have ever done, however important thing is, that I was able to do it. When I first started my CS educational journey, I knew almost nothing about coding but I always was pretty computer savvy. During this capstone I was able to take a look at projects that I had completed towards the beginning of my time at SNHU and was given the opportunity to enhance these projects to help showcase my knowledge on these subject. During this time, I was able to take courses that prepared me by teaching me the foundations of topics from algorithms, data structures, secure coding, databases, and so much more.
   <br><br>
