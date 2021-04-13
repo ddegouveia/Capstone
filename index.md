@@ -1,4 +1,4 @@
-## Professional Self-Assessment
+### Professional Self-Assessment
 
   When looking back on my time spent in the Computer Science program and this capstone course I can honestly say that it was one of the hardest things I have ever done, however important thing is, that I was able to do it. When I first started my CS educational journey, I knew almost nothing about coding but I always was pretty computer savvy. During this capstone I was able to take a look at projects that I had completed towards the beginning of my time at SNHU and was given the opportunity to enhance these projects to help showcase my knowledge on these subject. During this time, I was able to take courses that prepared me by teaching me the foundations of topics from algorithms, data structures, secure coding, databases, and so much more.
   <br><br>
@@ -6,7 +6,7 @@
 <br><br>
   I feel that as this program comes to an end, I have been setup for success in my future career in Computer Science. I know that this field is a challenging one that requires constant learning and constant growth but I know that with my current skillset I will be able build on my skills to become a successful software engineer. I am very thankful for all of the challenges along the way as they can be used as learning experiences to promote more growth.
 
-## Project Links
+### Project Links
 - [Refinement Plan and Code Review](/Refinement Plan and Code Review.md)
 - [Enhancement One](/Professional Self-Assessment.md)
 - [Enhancement Two](/Professional Self-Assessment.md)
